@@ -2,7 +2,6 @@
 - 👀 interested in Data Analytics and Python
 - 🌱 currently looking for a job in respective fields
 ---
-- 👔 LinkedIn: https://www.linkedin.com/in/suslovsergeu/
 - 👨‍💻 Kaggle: https://www.kaggle.com/suslovsergeu
 
 <!---
